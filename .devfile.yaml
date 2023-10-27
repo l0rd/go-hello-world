@@ -2,7 +2,7 @@ schemaVersion: 2.2.0
 metadata:
   name: go-hello-world
 parent:
-  uri: https://gist.githubusercontent.com/l0rd/ce9d4bab4e148c4599bdaf59aebc86bb/raw/e4a516ba6a769c61e598bdd9bbbc8fd80cd1053c/spuranam-parent.yaml
+  uri: https://gist.githubusercontent.com/l0rd/ce9d4bab4e148c4599bdaf59aebc86bb/raw/362673a3decdecd77378e6677017171e98d11d65/spuranam-parent.yaml
   components:
     - name: tools
       container:
@@ -22,9 +22,9 @@ parent:
             secure: true
             attributes:
               urlRewriteSupported: false
-events:
-  postStart:
-    - init
+# events:
+#   postStart:
+#     - init
 commands:
   - id: init
     exec:
