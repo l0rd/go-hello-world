@@ -2,7 +2,7 @@ schemaVersion: 2.2.0
 metadata:
   name: go-hello-world
 parent:
-  uri: https://gist.githubusercontent.com/l0rd/ce9d4bab4e148c4599bdaf59aebc86bb/raw/362673a3decdecd77378e6677017171e98d11d65/spuranam-parent.yaml
+  uri: https://gist.githubusercontent.com/l0rd/ce9d4bab4e148c4599bdaf59aebc86bb/raw/58807304196944ae5d5f683878f23399cd503418/spuranam-parent.yaml
   components:
     - name: tools
       container:
