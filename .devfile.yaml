@@ -2,7 +2,7 @@ schemaVersion: 2.2.0
 metadata:
   name: devspaces-preso
 parent:
-  uri: https://gist.githubusercontent.com/l0rd/ce9d4bab4e148c4599bdaf59aebc86bb/raw/fa5721a68c936c626a25d5f6ea5c91cb534219dc/spuranam-parent.yaml
+  uri: https://gist.githubusercontent.com/l0rd/ce9d4bab4e148c4599bdaf59aebc86bb/raw/adbeb7a51ef50f2f62c27ceb68a25143f947545b/spuranam-parent.yaml
   components:
     - name: tools
       container:
