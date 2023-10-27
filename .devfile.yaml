@@ -22,9 +22,6 @@ parent:
             secure: true
             attributes:
               urlRewriteSupported: false
-    - name: projects
-      volume:
-        size: 10Gi
 events:
   postStart:
     - init
