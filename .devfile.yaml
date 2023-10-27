@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
-  name: devspaces-preso
+  name: go-hello-world
 parent:
   uri: https://gist.githubusercontent.com/l0rd/ce9d4bab4e148c4599bdaf59aebc86bb/raw/adbeb7a51ef50f2f62c27ceb68a25143f947545b/spuranam-parent.yaml
   components:
